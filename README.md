@@ -1,77 +1,79 @@
-# 🌙 Go Home – Tháng về một lần
+# 🌑 No Way Home – Tháng về một lần
 
 <p align="center">
-  <i>Làm việc và trở về nhà – Hai nửa của một cuộc đời</i>
+  <i>Làm việc đến khi không còn đường về nhà</i>
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GoHome-Tháng_về_một_lần-6B7280?style=for-the-badge" alt="GoHome"/>
-  <img src="https://img.shields.io/badge/Work_Life-Real_talk-orange?style=for-the-badge" alt="Work Life"/>
+  <img src="https://img.shields.io/badge/NoWayHome-Tháng_về_một_lần-1E2937?style=for-the-badge" alt="NoWayHome"/>
+  <img src="https://img.shields.io/badge/Work_Life-Burnout_Edition-red?style=for-the-badge" alt="Burnout"/>
 </div>
 
-## Những điều ta thường quên khi chạy theo deadline
+## Những ngày ta mất dần con đường về nhà
 
-Có những ngày ta rời nhà lúc trời còn tờ mờ sáng  
-và chỉ trở về khi thành phố đã lên đèn.
+Có những ngày ta rời nhà khi trời còn tối mịt  
+và trở về khi thành phố đã ngủ say.
 
-Công việc cuốn ta đi như một cơn lũ:  
-- Deadline dồn dập  
-- Họp hành liên miên  
-- Email không ngừng  
-- Con số, áp lực, thành tích  
+Công việc nuốt chửng ta từng ngày:  
+- Deadline như lưỡi hái  
+- Meeting không ngớt  
+- Email đỏ lửa  
+- KPI, áp lực, và những “chỉ thêm chút nữa thôi…”
 
-Ta tự nhủ:  
-“Cố thêm chút nữa… tháng này thôi, rồi sẽ nhẹ nhàng hơn.”  
-Nhưng tháng này lại nối tiếp tháng sau,  
-năm này nối tiếp năm kia.
+Ta tự hứa:  
+“Còn tháng này nữa thôi…”  
+Nhưng tháng này lại trôi qua,  
+năm này nối năm kia,  
+và dần dần… ta quên mất đường về.
 
-Rồi một buổi chiều muộn,  
-trên chuyến xe buýt cuối ngày  
-hay giữa dòng kẹt cứng trên cao tốc,  
-ta chợt nhìn ra cửa sổ và tự hỏi:  
+Rồi một tối muộn,  
+trên xe buýt cuối cùng hay giữa dòng kẹt xe vô tận,  
+ta nhìn ra cửa sổ và chợt hoảng:  
 
-**“Mình đang đi đâu? Nhà… ở đâu nhỉ?”**
+**“Nhà… mình còn nhớ đường về không?”**
 
-## Nhà không chỉ là nơi ở
+## Nhà không còn là nhà nữa
 
-Nhà là:  
-- Người đang đợi cơm dù đã 9 giờ tối  
-- Mùi cơm mẹ nấu, mùi áo quần của con  
-- Tiếng cười nhỏ của đứa trẻ đang chờ bố/mẹ về  
-- Khoảnh khắc ngồi xuống ghế sofa mà không cần mở laptop nữa  
+Khi về nhà mà:  
+- Vợ/chồng/con đã ngủ từ lâu  
+- Bữa cơm nguội lạnh trên bàn  
+- Tiếng cười của con chỉ còn là ghi âm trong điện thoại  
+- Ghế sofa trở thành nơi mở laptop tiếp tục làm việc  
 
-Nhà là nơi ta **thuộc về**,  
-nơi ta được phép **thả lỏng** và **là chính mình**  
-không cần phải “performance” 24/7.
+Đó không còn là **về nhà**.  
+Đó là **trở về một nơi để ngủ**.
 
 ## Thông điệp của repo này
 
-Chúng ta không chống lại công việc.  
-Chúng ta chỉ nhắc nhau:  
-**Đừng để công việc chiếm hết cuộc đời.**  
+Chúng ta không chống công việc.  
+Chúng ta chỉ cảnh tỉnh nhau:  
 
-Hãy cố gắng hết mình khi đang làm việc,  
-nhưng cũng hãy **cho phép mình về nhà** – thật sự về nhà,  
-không chỉ về để ngủ.
+**Nếu không thay đổi, sẽ có ngày… No Way Home.**
 
-**Tháng về một lần** đã là quá ít.  
-Đừng để nó thành **năm về một lần**, rồi **cả đời chỉ nhìn thấy nhà qua khung cửa sổ xe**.
+Hãy làm việc nghiêm túc, nhưng đừng để công việc lấy mất cuộc đời.  
+Đừng để “tháng về một lần” trở thành “năm về một lần”,  
+rồi cuối cùng là **cả đời chỉ nhìn nhà qua khung cửa sổ xe**.
+
+## Dấu hiệu bạn đang lạc đường về nhà
+
+- Về nhà chỉ để tắm và ngủ  
+- Con cái gọi “bố/mẹ ơi” mà bạn chỉ kịp trả lời “con ngoan, bố đang bận”  
+- Cuối tuần cũng mở laptop  
+- Quên cả mùi cơm nhà, quên cả giọng nói của người thân  
 
 ## Cách tham gia repo
 
-- Chia sẻ câu chuyện thật của bạn về “go home”  
-- Đăng ảnh, status, note nhỏ khi bạn thực sự “về nhà”  
-- Viết những câu nhắc nhở nhẹ nhàng cho chính mình và người khác  
-- Meme, thơ, status, checklist “signs bạn đang quên nhà”… đều được chào đón  
+- Chia sẻ câu chuyện thật của bạn (khi nào bạn nhận ra mình đang “No Way Home”)  
+- Đăng ảnh, status khoảnh khắc hiếm hoi bạn thực sự **về nhà**  
+- Viết reminder, thơ, meme đen tối, checklist “Dấu hiệu bạn đã mất nhà”…  
+- Tất cả đều được hoan nghênh nếu chân thật.
 
-**Quy tắc duy nhất**: chân thật, không toxic, không phán xét.
+**Quy tắc duy nhất**: Không toxic, không phán xét, cùng nhau tỉnh thức.
 
 > “Đừng để ngày về nhà trở thành ngày xa nhà nhất.”  
-> – Một câu nói lặng lẽ của rất nhiều người
+> – Và tệ hơn: đừng để nó trở thành “không còn đường về”.
 
-Nếu bạn cũng đang cố gắng cân bằng giữa **làm việc** và **về nhà**,  
-hãy star repo để cùng nhau nhắc nhở:  
+⭐ Nếu bạn vẫn còn muốn **về nhà thật sự**, hãy star repo này.  
+Cùng nhau nhắc nhở trước khi quá muộn.
 
-**Nhà vẫn đang đợi.**
-
-⭐ **Go Home. Đừng để tháng nào cũng chỉ về một lần.**
+**Go Home… trước khi thành No Way Home.**
